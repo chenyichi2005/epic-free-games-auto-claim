@@ -1,0 +1,5 @@
+lib/
+__pycache__/
+screenshots/
+claim_log.txt
+run_output.txt
