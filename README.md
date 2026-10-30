@@ -54,6 +54,10 @@ run.bat → claim_epic.py
 schtasks /Delete /TN "Epic 免費遊戲自動領取" /F
 ```
 
+## 授權
+
+[MIT License](LICENSE)
+
 ## 免責聲明
 
 Epic Games 的服務條款不允許自動化操作，使用本程式可能有帳號被限制的風險，請自行評估。Epic 改版介面時程式可能需要跟著調整。
